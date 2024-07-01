@@ -1,2 +1,2 @@
-# MewingSkin_AI
+# DEMA_AI
  AI with dermatologic classification purposes
